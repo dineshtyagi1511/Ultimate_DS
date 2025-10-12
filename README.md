@@ -1,4 +1,4 @@
 # Ultimate_DS
 
-## Machine Leaening 
+## Machine Learning 
 **1** Linear Regression Manual 
